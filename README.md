@@ -7,8 +7,6 @@
 
 - 📫 Bana nasıl ulaşırım **halilsen1005@gmail.com**
 
-- 📄Deneyimlerimden haberdar olun [file:///C:/Users/karak/Desktop/Dosyalar/Dosyalar%C4%B1m/ALMANYA/Belgeler/CV/Halil%20%C5%9Een%20TR.%20CV.pdf] (file:///C:/Users/karak/Desktop/Dosyalar/Dosyalar%C4%B1m/ALMANYA/Belgeler/CV/Halil%20%C5%9Een%20TR.%20CV.pdf)
-
 <h3 align = "left">Benimle bağlantı kurun:</h3>
 <p align = "left">
 <a href = "https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target = "blank"><img align = "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
