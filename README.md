@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGb9gceDZ8IoA/profile-displaybackgroundimage-shrink_350_1400/B4DZWHuAjKHYAc-/0/1741738741224?e=1747872000&v=beta&t=FKAu7yjvu9mbLxzE6iXuUwmqGbDOER9chwb83G4KkQg)
 
 <h1 align="center">Merhaba 👋, ben Halil ŞEN</h1>
-<h3 align="center">Merhaba! Ben Halil, bir grafik tasarımcısı ve teknoloji meraklısıyım. Projelerimde genellikle Adobe programları ve yapay zeka ile çalışır.</h3>
+<h3 align="center">Merhaba! Ben Halil, bir grafik tasarımcıyım ve teknoloji meraklısıyım. Projelerimde genellikle Adobe programları ve yapay zeka ile çalışır.</h3>
 
 
 
