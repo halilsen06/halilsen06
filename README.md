@@ -2,6 +2,8 @@
 
 <h1 align="center">Merhaba 👋, ben Halil ŞEN</h1>
 <h3 align="center">Merhaba! Ben Halil, bir grafik tasarımcıyım ve teknoloji meraklısıyım. Projelerimde genellikle Adobe programları ve yapay zeka ile çalışırım.</h3>
+<h3 align="center">Hallo! Ich bin Halil, ein Grafikdesigner und ein Technologiebegeisterter. In meinen Projekten arbeite ich hauptsächlich mit Adobe-Programmen und künstlicher Intelligenz.</h3>
+<h3 align="center">Hello! I'm Halil, a graphic designer and a technology enthusiast. I mostly work with Adobe software and artificial intelligence in my projects.</h3>
 
 
 
