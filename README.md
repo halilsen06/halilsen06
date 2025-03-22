@@ -1,5 +1,5 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGb9gceDZ8IoA/profile-displaybackgroundimage-shrink_350_1400/B4DZWHuAjKHYAc-/0/1741738741224?e=1747872000&v=beta&t=FKAu7yjvu9mbLxzE6iXuUwmqGbDOER9chwb83G4KkQg)
-
+![MasterHead]([https://media.licdn.com/dms/image/v2/D4D16AQGb9gceDZ8IoA/profile-displaybackgroundimage-shrink_350_1400/B4DZWHuAjKHYAc-/0/1741738741224?e=1747872000&v=beta&t=FKAu7yjvu9mbLxzE6iXuUwmqGbDOER9chwb83G4KkQg](https://media.licdn.com/dms/image/v2/D4D2DAQHCyzGXSc8qbg/profile-treasury-image-shrink_800_800/B4DZW.CXZCHYAY-/0/1742650047506?e=1743256800&v=beta&t=sbKs7vGXh8clHjPgfWVYdth9ImKO5iu1p548WJSF4T8))
 <h1 align="center">Merhaba 👋, ben Halil ŞEN</h1>
 <h3 align="center">Merhaba! Ben Halil, bir grafik tasarımcıyım ve teknoloji meraklısıyım. Projelerimde genellikle Adobe programları ve yapay zeka ile çalışırım.</h3>
 <h3 align="center">Hallo! Ich bin Halil, ein Grafikdesigner und ein Technologiebegeisterter. In meinen Projekten arbeite ich hauptsächlich mit Adobe-Programmen und künstlicher Intelligenz.</h3>
